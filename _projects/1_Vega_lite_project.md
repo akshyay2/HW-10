@@ -34,6 +34,6 @@ custom_js:
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://github.com/jnaiman/online_cv_public/blob/main/python_notebooks/test_generate_plots.ipynb" text="The Analysis" %}
+{% include elements/button.html link="https://github.com/akshyay2/HW-10/blob/main/Group11_Homework_10.ipynb" text="The Analysis" %}
 </div>
 
