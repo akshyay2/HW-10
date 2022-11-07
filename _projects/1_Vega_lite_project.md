@@ -17,7 +17,7 @@ custom_js:
 #### Deepanshu Malhotra
 #### Shruti Jain
 
-####We have used the starboard code from Akshya's Homework 9 assignment and built on it as per the homework 10 requirements. In this assignment, we have taken the visualization 1 from the homework 9 and plotted it using the altair library in python. For visualization 2, we have added a dropdown as an interactivity so that the user can change the city according to their preference. This explains our overlap with assignment 9. 
+#### We have used the starboard code from Akshya's Homework 9 assignment and built on it as per the homework 10 requirements. In this assignment, we have taken the visualization 1 from the homework 9 and plotted it using the altair library in python. For visualization 2, we have added a dropdown as an interactivity so that the user can change the city according to their preference. This explains our overlap with assignment 9. 
 
 # Visualization 1 
 ### The aim for this visualization is to understand how the average size of the buildings constructed over the years and how has it evolved over the years because with time, open spaces have reduced and that has resulted in smaller buildings. 
